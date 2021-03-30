@@ -1,4 +1,4 @@
-# Understanding_inertial_odometry_with_DNN
+# Understanding inertial odometry with DNN
 
 In navigation, deep learning for inertial odometry (IO) has recently been investigated using data from a low-cost IMU only. 
 The measurement of noise, bias, and some errors from which IO suffers is estimated with a deep neural network (DNN) to achieve more accurate pose estimation.
