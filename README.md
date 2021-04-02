@@ -16,7 +16,7 @@ To use :
 $ ./main_kitty
 
 Two options are available in main_kitty:
-  - train_veloNet
+	- train_veloNet
 	- test_veloNet
 
 
