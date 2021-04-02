@@ -23,3 +23,4 @@ Two options are available in main_kitty:
 Set the value to 1 to launch the desired function.
 
 One example of a Neural network was trained and saved in the folder ./saved_NN
+
