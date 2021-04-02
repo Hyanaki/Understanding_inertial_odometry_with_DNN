@@ -13,9 +13,14 @@ Kitti dataset was used for this version of the code.
 
 To use :
 
+```bash
+
 $ ./main_kitty
 
+```
+
 Two options are available in main_kitty:
+
 	- train_veloNet
 	- test_veloNet
 
